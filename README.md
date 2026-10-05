@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/pedrohsvilela" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://codevilelax.github.io/Meu-Primeiro-Portif-lio-/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+  </a>
 </p>
 
 ## 🙋 Sobre mim
