@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://codevilelax.github.io/Meu-Primeiro-Portif-lio-/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-7B5CF5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwIDZoLTRWNGMwLTEuMTEtLjg5LTItMi0yaC00Yy0xLjExIDAtMiAuODktMiAydjJINGMtMS4xMSAwLTEuOTkuODktMS45OSAyTDIgMTljMCAxLjExLjg5IDIgMiAyaDE2YzEuMTEgMCAyLS44OSAyLTJWOGMwLTEuMTEtLjg5LTItMi0yem0tNiAwaC00VjRoNHYyeiIvPjwvc3ZnPg%3D%3D" alt="Portfólio">
   </a>
 </p>
 
