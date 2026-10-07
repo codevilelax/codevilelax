@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codevilelax&show_icons=true&include_all_commits=true&hide=prs,issues&theme=tokyonight&hide_border=true&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevilelax&layout=compact&card_width=360&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevilelax&hide=html&layout=compact&card_width=360&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" height="170">
 </p>
 
 <p align="center">
