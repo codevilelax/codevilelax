@@ -2,7 +2,7 @@
 
 <p align="center">
   Aprendiz de TI em Guarulhos/SP, trabalhando com suporte de sistemas e SQL no dia a dia.<br>
-  Estudando PHP e SQL, com o objetivo de evoluir para Engenharia de Dados.
+  Estudando PHP e SQL, com o objetivo de me tornar desenvolvedor.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 💼 Aprendiz de Sistemas na **IBL Logística**, atuando no suporte a sistemas corporativos (ERP, TMS, BPM e RPA)
 - 🗄️ Uso **SQL** no trabalho para consultar, validar e corrigir dados
 - 📚 Aprendendo **PHP** do zero, começando pelos fundamentos
-- 🎯 Objetivo: crescer na área de **dados** e **desenvolvimento**
+- 🎯 Objetivo: me tornar **desenvolvedor**
 
 ## 🛠️ Tecnologias
 
